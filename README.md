@@ -105,3 +105,25 @@ Complete these to gauge readiness:
 # Requirements: Use built-in layers, custom training loop
 # Dataset: CIFAR-10
 # Goal: Master PyTorch basics
+
+#### Level 2: Intermediate (Weeks 1-4)
+# Project 3: Transformer from scratch
+# Requirements: Implement multi-head attention, positional encoding
+# Dataset: Character-level text
+# Goal: Understand attention mechanics
+
+# Project 4: Complete training pipeline
+# Requirements: Distributed training, mixed precision, gradient accumulation
+# Dataset: ImageNet subset
+# Goal: Production-ready training code
+# Project 5: Custom CUDA extension
+# Requirements: Write CUDA kernel for specific operation
+# Goal: Understand GPU-level optimization
+
+#### Level 3: Advanced (Weeks 1-4)
+# Project 6: Research reproduction
+# Requirements: Reproduce results from recent paper
+# Goal: Learn research methodology
+
+
+
